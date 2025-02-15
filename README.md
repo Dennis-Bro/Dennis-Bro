@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Machine Learning Algorithm for Predictive Analytics. This project involves developing a model to predict stock market trends using historical data and sentiment analysis. [StockTrendML](https://github.com/llSourcell/Stock_Market_Prediction)
 
-- 🌱 I’m currently learning **I’m currently learning the TensorFlow framework to further deepen my understanding of deep learning algorithms, as well as reinforcement learning through online courses like Coursera's Deep Learning Specialization. Frameworks/Courses: TensorFlow, Coursera – Deep Learning Specialization, Fast.ai**
+- 🌱 **I’m currently learning the TensorFlow framework to further deepen my understanding of deep learning algorithms, as well as reinforcement learning through online courses like Coursera's Deep Learning Specialization. Frameworks/Courses: TensorFlow, Coursera – Deep Learning Specialization, Fast.ai**
 
 - 👯 I’m looking to collaborate on Natural Language Processing (NLP) projects, especially those focused on text classification, sentiment analysis, or chatbot development. [NLP-TextClassify](https://github.com/keras-team/keras/blob/v2.10.0/examples/nlp/text_classification.py)
 
